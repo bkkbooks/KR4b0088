@@ -117,7 +117,6 @@ markers:
   - {type: 'tls:seg', offset: 226, content: '', id: KR4b0088_CHANT_001-2a.4}
   - {type: punctuation, offset: 231, content: 。, id: KR4b0088_CHANT_001-bkkpn65}
   - {type: 'tls:seg', offset: 231, content: '', id: KR4b0088_CHANT_001-2a.5}
-  - {type: substitution, offset: 231, original: 慇, replacement: 殷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0953}}
   - {type: punctuation, offset: 236, content: ，, id: KR4b0088_CHANT_001-bkkpn66}
   - {type: 'tls:seg', offset: 236, content: '', id: KR4b0088_CHANT_001-2a.6}
   - {type: punctuation, offset: 241, content: 。, id: KR4b0088_CHANT_001-bkkpn67}
@@ -164,10 +163,8 @@ markers:
   - {type: 'tls:seg', offset: 314, content: '', id: KR4b0088_CHANT_001-3a.8}
   - {type: punctuation, offset: 319, content: ，, id: KR4b0088_CHANT_001-bkkpn90}
   - {type: 'tls:seg', offset: 319, content: '', id: KR4b0088_CHANT_001-3a.9}
-  - {type: substitution, offset: 319, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
   - {type: punctuation, offset: 324, content: 。, id: KR4b0088_CHANT_001-bkkpn91}
   - {type: 'tls:seg', offset: 324, content: '', id: KR4b0088_CHANT_001-3a.10}
-  - {type: substitution, offset: 327, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4558}}
   - {type: punctuation, offset: 329, content: ，, id: KR4b0088_CHANT_001-bkkpn92}
   - {type: 'tls:seg', offset: 329, content: '', id: KR4b0088_CHANT_001-3a.11}
   - {type: punctuation, offset: 334, content: 。, id: KR4b0088_CHANT_001-bkkpn93}
@@ -229,4 +226,4 @@ markers:
   - {type: punctuation, offset: 428, content: 。, id: KR4b0088_CHANT_001-bkkpn124}
   - {type: xml-element, offset: 428, content: '', id: KR4b0088_CHANT_001-bkkxmlele14, name: p, role: close}
   back: []
-hash: sha256:5f4312a67720648b61a1b4b8a9df3266de843310d3520cdf66d624baf2594263
+hash: sha256:930399c9fe469f40d76db5a08bb975fe89febb1ef1eccd071c17f2d4f2be26d2
